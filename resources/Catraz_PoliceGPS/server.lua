@@ -1,0 +1,5 @@
+RegisterServerEvent('activateblip')
+	AddEventHandler('activateblip', function(mx, my, mz)
+	TriggerClientEvent('displayblip', -1, mx, my, mz)
+	TriggerClientEvent("displayblip", source)
+end)

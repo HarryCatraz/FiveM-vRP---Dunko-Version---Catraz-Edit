@@ -1,0 +1,43 @@
+@import url('res/futurastd-medium.css');
+
+html {
+	color: #fff;
+}
+
+#wrap {
+	width: 500px;
+	min-height: 185px;
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+    color: rgba(255, 255, 255, 1);
+}
+
+table {
+	text-align: left;
+}
+
+th, td {
+	padding-left: 25px;
+	padding-top: 10px;
+	color: #212121;
+}
+
+th {
+	padding-top: 10px;
+	height: 40px;
+	color: #fff;
+}
+
+tr {
+	font-size: 120%;
+	font-family: 'Roboto';
+	padding-top: 10px;
+    color: #212121;
+}
+
+tr.heading {
+    background-color: #212121;
+    color: rgba(255, 255, 255, 0.9);
+}

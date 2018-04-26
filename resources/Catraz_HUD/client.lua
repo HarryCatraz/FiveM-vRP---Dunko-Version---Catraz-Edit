@@ -1,0 +1,17 @@
+Citizen.CreateThread(function()
+    while true do
+        Citizen.Wait(0)
+        HideHudComponentThisFrame(1)
+        HideHudComponentThisFrame(2)
+        HideHudComponentThisFrame(3)
+        HideHudComponentThisFrame(4)
+        HideHudComponentThisFrame(6)
+        HideHudComponentThisFrame(7)
+        HideHudComponentThisFrame(8)
+        HideHudComponentThisFrame(9)
+        HideHudComponentThisFrame(13)
+        HideHudComponentThisFrame(14)
+        HideHudComponentThisFrame(17)
+        HideHudComponentThisFrame(20)
+    end
+end)

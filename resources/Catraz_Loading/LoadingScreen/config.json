@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "10,10,10",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg4.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,204,0",
+		"useBoldText" : "true",
+		"serverTitle" : "Vast Gaming Network",
+		"playAudioInBackground" : "false",
+		"audioPath" : "audio/gtavthemesong.ogg",
+		"audioVolume" : "0.06"
+	},
+	{
+		"rule1" : "Please Read The Rules",
+		"rule2" : "Sign Up To The Website",
+		"rule3" : "Report All Rule Breaks To Staff",
+		"rule4" : "Join Our Teamspeak",
+		"rule5" : "Do Not Come Out Of Character Unless Speaking To Staff.",
+		"rule6" : "Respect All Players On The Community",
+		"rule7" : "Enjoy And Make Friends"
+	},
+	{
+		"servers1" : "Website: www.VGNFiveM.co.uk",
+		"servers2" : "Teamspeak: 77.68.72.113",
+		"servers3" : "Game Server One: 77.68.72.113:30120",
+		"servers4" : "Game Server Two (DEV): 77.68.72.113:30121",
+		"servers5" : "",
+		"servers6" : "Read The Rules",
+		"servers7" : "Visit Our Website"
+	},
+	{
+		"content1" : "Modified vRP Framework",
+		"content2" : "Custom Police Skins",
+		"content3" : "Custom EMS Skins",
+		"content4" : "Custom Vehicle Packs",
+		"content5" : "Custom Weapons and Shops",
+		"content6" : "Active Staff",
+		"content7" : "Frequent Development Updates"
+	}
+]

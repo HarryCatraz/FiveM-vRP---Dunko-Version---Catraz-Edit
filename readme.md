@@ -13,14 +13,15 @@ Contributions are welcomed.
 If you want to try the framework somewhere, here is a list of servers using vRP, without whitelist and managed by me.
 
 
+
+
 Dunko/Catraz vRP Description:
 
 
-Custom version of the original vRP made by ImagicTheCat and further edited by Dunko/Physco.
+Custom version of the original vRP made by ImagicTheCat and further edited by Dunko/Psycho.
 
 
 Current Catraz Version 1.0:
-
 
 Removed Tahoe from EMS shop
 
@@ -162,6 +163,11 @@ Add 911 Alerts for Weapons, Jacking, Attempted Car Jacking
 Fix nite club blip name
 
 and MOAR
+
+
+
+Trello: https://trello.com/b/h3hZsemW/vgn-vrp-fivem
+
 
 
 I do not claim to make or create some of there mods and scripts. However they have been changed to work for this style of RP.

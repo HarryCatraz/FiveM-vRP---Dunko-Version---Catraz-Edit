@@ -120,6 +120,7 @@ Changed chat to new style
 ### Installation
 Make a Folder in C Drive root directory and call it "FXServer". Drage and drop the contents of this repo into the folder. Run autorestart.bat and wait till it clears the cache and starts the server. The server should take about 30 seconds to appear on FiveM.
 
+Edit the server.cfg you your server name, lisence key and RCON password
 
 ### Coming in Catraz Version 2.0:
 

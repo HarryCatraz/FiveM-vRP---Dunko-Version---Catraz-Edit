@@ -184,13 +184,23 @@ cfg.garage_types = {
     ["police2"] = {"Dodge Charger (Lightbar)",0, "police"},
     ["police3"] = {"Ford Taurus (Light bar)",0, "police"},
     ["police4"] = {"Tahoe (Light Bar)",0, "police"},
-    ["policet"] = {"Police Transport Van",0, "police"},
+    ["police5"] = {"Ford Explorer (White) (Lightbar)",0, "police"},
+    ["police6"] = {"Dodge Charger (White) (Lightbar)",0, "police"},
+    ["police7"] = {"Chevrolet Tahoe (White) (Lightbar)",0, "police"},  
+    ["police8"] = {"Ford CVPI (White) (Lightbar)",0, "police"},   
+
+    ["policet"] = {"Police Transport Van",0, "police"},    
+    ["policeb"] = {"State Police BMW 1200RT",0, "police"},
+     
     ["sheriff2"] = {"Sheriff Dodge Charger",0, "police"},
     ["sheriff"] = {"Sheriff Ford Expedition",0, "police"},
-    ["riot"] = {"Lenco Bearcat",0, "police"},
+  
     ["fbi"] = {"Dodge Challenger Hellcat (Undercover)",0, "police"},
-    ["fbi2"] = {"FPIU (Undercover)",0, "police"},
-    ["policeb"] = {"State Police BMW 1200RT",0, "police"}
+    ["fbi2"] = {"FPIU (Undercover)",0, "police"},   
+    ["fbi3"] = {"Ford CVPI (Undercover)",0, "police"},
+    ["fbi4"] = {"Chevrolet Tahoe (Undercover)",0, "police"},  
+
+    ["riot"] = {"Lenco Bearcat",0, "police"}
   },
   ["Cadet"] = {
     _config = {vtype="car",blipid=56,blipcolor=38,permissions={"police.vehicle"}},
@@ -198,18 +208,30 @@ cfg.garage_types = {
     ["police2"] = {"Dodge Charger (Lightbar)",0, "police"},
     ["police3"] = {"Ford Taurus (Light bar)",0, "police"},
     ["police4"] = {"Tahoe (Light Bar)",0, "police"},
-    ["policet"] = {"Police Transport Van",0, "police"},
+    ["police5"] = {"Ford Explorer (White) (Lightbar)",0, "police"},
+    ["police6"] = {"Dodge Charger (White) (Lightbar)",0, "police"},
+    ["police7"] = {"Chevrolet Tahoe (White) (Lightbar)",0, "police"},  
+    ["police8"] = {"Ford CVPI (White) (Lightbar)",0, "police"},   
+
+    ["policet"] = {"Police Transport Van",0, "police"},    
+    ["policeb"] = {"State Police BMW 1200RT",0, "police"},
+     
     ["sheriff2"] = {"Sheriff Dodge Charger",0, "police"},
     ["sheriff"] = {"Sheriff Ford Expedition",0, "police"},
-    ["riot"] = {"Lenco Bearcat",0, "police"},
+  
     ["fbi"] = {"Dodge Challenger Hellcat (Undercover)",0, "police"},
-    ["fbi2"] = {"FPIU (Undercover)",0, "police"},
-    ["policeb"] = {"State Police BMW 1200RT",0, "police"}
+    ["fbi2"] = {"FPIU (Undercover)",0, "police"},   
+    ["fbi3"] = {"Ford CVPI (Undercover)",0, "police"},
+    ["fbi4"] = {"Chevrolet Tahoe (Undercover)",0, "police"},  
+
+    ["riot"] = {"Lenco Bearcat",0, "police"}
   },
   ["Bounty"] = {
     _config = {vtype="car",blipid=56,blipcolor=38},
-  	["fbi"] = {"Dodge Challenger Hellcat (Undercover)",0, "police"},
-  	["fbi2"] = {"FPIU (Undercover)",0, "police"}
+    ["fbi"] = {"Dodge Challenger Hellcat (Undercover)",0, "police"},
+    ["fbi2"] = {"FPIU (Undercover)",0, "police"},   
+    ["fbi3"] = {"Ford CVPI (Undercover)",0, "police"},
+    ["fbi4"] = {"Chevrolet Tahoe (Undercover)",0, "police"}
   },
   ["emergency"] = {
     _config = {vtype="car",blipid=50,blipcolor=3},

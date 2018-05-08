@@ -1,0 +1,1 @@
+If you have an issue make a Github account and open a ticket. Ill reply as soon as possbile with a temporary fix and an update to the repo.

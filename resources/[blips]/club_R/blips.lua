@@ -2,7 +2,7 @@ local blips = {
     -- Example {title="", colour=, id=, x=, y=, z=},
 	-- Discord
 
-	{title="Nite Club", colour=3, id=121, x=-346.18237304688, y=165.31571960449, z=86.390754699707},
+	{title="Night Club", colour=3, id=121, x=-346.18237304688, y=165.31571960449, z=86.390754699707},
   }
 
 Citizen.CreateThread(function()

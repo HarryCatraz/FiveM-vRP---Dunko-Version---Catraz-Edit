@@ -1,0 +1,25 @@
+Coming in V2.0:
+
+Fixed respray price to $2500
+
+Add vAnnouncer
+
+Fixed black lightbars
+
+Add Catraz Police Dogs
+
+Add Catraz Fire Script
+
+Add Catraz Police GPS
+
+Fix vRP savetables on chat message
+
+Make cop customisation free
+
+Fixed police barriers spawning 90 degrees wrong
+
+Add 911 Alerts for Weapons, Jacking, Attempted Car Jacking
+
+Fix nite club blip name
+
+and MOAR

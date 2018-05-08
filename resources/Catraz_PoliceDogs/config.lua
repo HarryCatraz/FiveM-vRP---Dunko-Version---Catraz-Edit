@@ -1,7 +1,7 @@
 K9Config = {}
 K9Config = setmetatable(K9Config, {})
 
-K9Config.OpenMenuIdentifierRestriction = false
+K9Config.OpenMenuIdentifierRestriction = true
 K9Config.OpenMenuPedRestriction = true
 K9Config.LicenseIdentifiers = {
 	"license:c06fbf1faaf995c7b9e207ef77712971a3ed4dc3"

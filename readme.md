@@ -1,11 +1,11 @@
 # FiveM VRP Catraz Edit
 
+## Current Version Stable Branch = 1.0
+
 The project aim to create a generic and simple RP framework to prevent everyone from reinventing the wheel.
 Contributions are welcomed.
 
-### Changelog Version 1.0
-
-Current Version Stable Branch = 1.0
+### Changelog: V1.0
 
 ```
 Removed Tahoe from EMS shop
@@ -120,8 +120,9 @@ Changed chat to new style
 ### Installation
 Make a Folder in C Drive root directory and call it "FXServer". Drage and drop the contents of this repo into the folder. Run autorestart.bat and wait till it clears the cache and starts the server. The server should take about 30 seconds to appear on FiveM.
 
+Edit the server.cfg you your server name, lisence key and RCON password
 
-### Coming in Catraz Version 2.0:
+### Coming in V2.0:
 
 Fixed respray price to $2500
 
@@ -132,8 +133,6 @@ Fixed black lightbars
 Add Catraz Police Dogs
 
 Add Catraz Fire Script
-
-Add Catraz Respawn Timer
 
 Add Catraz Police GPS
 
@@ -150,7 +149,7 @@ Fix nite club blip name
 and MOAR
 
 
-### Development Treelo
+### Development Trello
 Trello: https://trello.com/b/h3hZsemW/vgn-vrp-fivem
 
 
